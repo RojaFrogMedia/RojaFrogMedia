@@ -1,19 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Your Name — Personal Website</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Personal website of Your Name. Developer, designer, and creator. Explore my work, background, and ways to get in touch.">
-  <meta name="robots" content="index,follow">
-  <meta name="theme-color" content="#0b1220">
-  <!-- Open Graph -->
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Your Name — Personal Website">
-  <meta property="og:description" content="Developer, designer, and creator. Explore my work, background, and contact info.">
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Your Name — Personal Website">
   <meta name="twitter:description" content="Developer, designer, and creator. Explore my work, background, and contact info.">
   <style>
     :root{
